@@ -17,7 +17,7 @@ Expert on **Java** and currently learning **Kotlin**. Unique an Legitimate owner
 - [Jade Network](x.com/jademcnet)
 - [DinoRush Network](x.com/dinorushnetwork)
 - [Varant Network](x.com/varantmc)
-- [Holy Network](x.com/holypvpnet)
+- [Holy Network](https://www.x.com/holypvpnet)
 
 ---
 
