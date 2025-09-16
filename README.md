@@ -14,9 +14,9 @@ Expert on **Java** and currently learning **Kotlin**. Unique an Legitimate owner
 ---
 
 ## Projects
-- [Jade Network](x.com/jademcnet)
-- [DinoRush Network](x.com/dinorushnetwork)
-- [Varant Network](x.com/varantmc)
+- [Jade Network](https://www.x.com/jademcnet)
+- [DinoRush Network](https://www.x.com/dinorushnetwork)
+- [Varant Network](https://www.x.com/varantmc)
 - [Holy Network](https://www.x.com/holypvpnet)
 
 ---
@@ -24,5 +24,5 @@ Expert on **Java** and currently learning **Kotlin**. Unique an Legitimate owner
 ## Contact Me
 - Discord: problemxtico
 - Telegram: @rraaddpp
-- Twitter: [@problemxatico](x.com/problemxatico)
+- Twitter: [@problemxatico](https://www.x.com/problemxatico)
 - Email: contact@cubestudios.gg
