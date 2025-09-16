@@ -1,16 +1,28 @@
-## Hi there 👋
+# Problematico
 
-<!--
-**problemxtico/problemxtico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Developer specialized on the creations of plugins, systems in backend & front on **Minecraft HCF Servers**
+Expert on **Java** and currently learning **Kotlin**. Unique an Legitimate owner from @CubeStudiosTeam
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- Java · Kotlin · SQL  
+- Gradle · Maven  
+- Redis · MongoDB · MySQL  
+- Git · Linux  
+
+---
+
+## Projects
+- [Jade Network](x.com/jademcnet)
+- [DinoRush Network](x.com/dinorushnetwork)
+- [Varant Network](x.com/varantmc)
+- [Holy Network](x.com/holypvpnet)
+
+---
+
+## Contact Me
+- Discord: problemxtico
+- Telegram: @rraaddpp
+- Twitter: [@problemxatico](x.com/problemxatico)
+- Email: contact@cubestudios.gg
